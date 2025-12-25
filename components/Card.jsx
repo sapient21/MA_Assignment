@@ -41,7 +41,9 @@ const styles = StyleSheet.create({
   iconImg: {
     width: 70,
     height: 70,
-    borderRadius: 50,
+    borderColor: '#000',
+    borderWidth: 1,
+    borderRadius: 15,
   },
   text: {
     textAlign: 'center'
